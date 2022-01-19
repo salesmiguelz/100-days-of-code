@@ -10,5 +10,12 @@
 
 **Thoughts**: It was very cool to use Laravel components for the first time, because they are very easy to use and can make a lot easier to build the layout of my app.
 
+### Day 2: January 19, 2022.
+
+**Today's Progress**: Changed the navbar colors and the <a> titles on the blog. Created a Post card to be displayed on the home page, linking to the full post. I'm still working only on the front-end.
+  
+**Thoughts**: I chose a color palette yesterday but implementing it on the blog makes me think it doesn't suit correctly. I will try it out another one in the next few days. The home page is not responsive yet. Hope Bootstrap helps me in this matter.
+
+
 
 
