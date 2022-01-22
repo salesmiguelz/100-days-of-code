@@ -26,6 +26,11 @@
 
 **Today's Progress**: Created a logout button with Laravel Breeze and a Posts model, controller and table.
   
+### Day 5: January 22, 2022.
+
+**Today's Progress**: Developed fully dynamic posts system, where you can write title, description and body. The posts will be filtered by user. Also created a One to Many relantionship between User and Post.
+  
+  
 
 
 
