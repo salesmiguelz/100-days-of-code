@@ -16,12 +16,16 @@
   
 **Thoughts**: I chose a color palette yesterday but implementing it on the blog makes me think it doesn't suit correctly. I will try it out another one in the next few days. The home page is not responsive yet. Hope Bootstrap helps me in this matter.
 
-### Day 2: January 20, 2022.
+### Day 3: January 20, 2022.
 
 **Today's Progress**: Started implementing Laravel Breeze into the project. 
   
 **Thoughts**: Today I was pretty tired from college so I didn't improve some features that I was planning to work. The front-end is pretty messy, but Bootstrap is helping me a lot.
+  
+### Day 4: January 21, 2022.
 
+**Today's Progress**: Created a logout button with Laravel Breeze and a Posts model, controller and table.
+  
 
 
 
