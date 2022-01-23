@@ -30,6 +30,11 @@
 
 **Today's Progress**: Developed fully dynamic posts system, where you can write title, description and body. The posts will be filtered by user. Also created a One to Many relantionship between User and Post.
   
+### Day 6: January 23, 2022.
+
+**Today's Progress**: Changed the "/" route to redirect to "/posts" with a list of posts from all users. Created a delete button that makes it possible for the logged user to delete his posts and made the "My Posts" section filtering the posts by the logged user.
+    
+  
   
 
 
