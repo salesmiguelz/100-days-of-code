@@ -33,6 +33,12 @@
 ### Day 6: January 23, 2022.
 
 **Today's Progress**: Changed the "/" route to redirect to "/posts" with a list of posts from all users. Created a delete button that makes it possible for the logged user to delete his posts and made the "My Posts" section filtering the posts by the logged user.
+  
+### Day 7: January 24, 2022.
+
+**Today's Progress**: Started implementing custom images on the blog posts. I had some trouble understanding Storage::put method and which parameters I should pass to it, but th files are now being saved properly.
+  
+**Thoughts**: I made it to the first week of the challenge! I learned a lot in this past 7 days and I'm more excited than ever to learn more about Laravel and build amazing things!
     
   
   
