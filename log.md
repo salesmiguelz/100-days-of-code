@@ -39,7 +39,11 @@
 **Today's Progress**: Started implementing custom images on the blog posts. I had some trouble understanding Storage::put method and which parameters I should pass to it, but th files are now being saved properly.
   
 **Thoughts**: I made it to the first week of the challenge! I learned a lot in this past 7 days and I'm more excited than ever to learn more about Laravel and build amazing things!
-    
+  
+### Day 8: January 25, 2022.
+
+**Today's Progress**: Created edit and updated method for the blog posts. Now all post images are displayed properly and saved or deleted in the DB.
+
   
   
 
