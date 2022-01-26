@@ -43,6 +43,10 @@
 ### Day 8: January 25, 2022.
 
 **Today's Progress**: Created edit and updated method for the blog posts. Now all post images are displayed properly and saved or deleted in the DB.
+  
+### Day 9: January 26, 2022.
+
+**Today's Progress**: Created show method and fixed image not being deleted when a post is deleted. Starting to create an admin panel to manage users and categories.
 
   
   
