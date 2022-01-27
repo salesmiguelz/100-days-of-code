@@ -48,6 +48,11 @@
 
 **Today's Progress**: Created show method and fixed image not being deleted when a post is deleted. Starting to create an admin panel to manage users and categories.
 
+### Day 10: January 27, 2022.
+
+**Today's Progress**: Transformed the posts' form into a component so it can be a lot more flexible.
+  
+
   
   
 
