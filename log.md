@@ -51,7 +51,10 @@
 ### Day 10: January 27, 2022.
 
 **Today's Progress**: Transformed the posts' form into a component so it can be a lot more flexible.
-  
+
+### Day 11: January 28, 2022.
+
+**Today's Progress**: Added Javascript to the edit post view to make the input for image not required. Worked on Admin Dashboard to view all users and categories.
 
   
   
