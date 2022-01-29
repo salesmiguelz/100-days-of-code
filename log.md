@@ -55,7 +55,10 @@
 ### Day 11: January 28, 2022.
 
 **Today's Progress**: Added Javascript to the edit post view to make the input for image not required. Worked on Admin Dashboard to view all users and categories.
+  
+### Day 12: January 29, 2022.
 
+**Today's Progress**: Created update and delete methods for Users in the dashboard.
   
   
 
