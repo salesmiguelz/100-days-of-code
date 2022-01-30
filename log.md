@@ -60,6 +60,11 @@
 
 **Today's Progress**: Created update and delete methods for Users in the dashboard.
   
+### Day 13: January 30, 2022.
+
+**Today's Progress**: Started creating a policy for the posts.
+  
+  
   
 
 
