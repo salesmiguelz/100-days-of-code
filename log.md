@@ -68,6 +68,9 @@
 
 **Today's Progress**: Studied Laravel Policies to understand how they can interact with components.
   
+### Day 15: February 1st, 2022.
+
+**Today's Progress**: Created a route group for the auth middleware in the blog and studied about migrations.
   
   
   
