@@ -64,6 +64,12 @@
 
 **Today's Progress**: Started creating a policy for the posts.
   
+### Day 14: January 31, 2022.
+
+**Today's Progress**: Studied Laravel Policies to understand how they can interact with components.
+  
+  
+  
   
   
 
