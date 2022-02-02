@@ -72,6 +72,10 @@
 
 **Today's Progress**: Created a route group for the auth middleware in the blog and studied about migrations.
   
+### Day 16: February 2, 2022.
+
+**Today's Progress**: I added a post' author badge in the post card. Also, today I asked my first question in Stack Overflow! It was very helpful and I manage to fix my problem.
+  
   
   
   
