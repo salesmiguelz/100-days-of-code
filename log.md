@@ -76,6 +76,10 @@
 
 **Today's Progress**: I added a post' author badge in the post card. Also, today I asked my first question in Stack Overflow! It was very helpful and I manage to fix my problem.
   
+### Day 17: February 3, 2022.
+
+**Today's Progress**: Implemented update and delete methods in the Post Policy. I also created a Admin Middleware for some routes.
+  
   
   
   
