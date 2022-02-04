@@ -79,6 +79,10 @@
 ### Day 17: February 3, 2022.
 
 **Today's Progress**: Implemented update and delete methods in the Post Policy. I also created a Admin Middleware for some routes.
+
+### Day 18: February 4, 2022.
+
+**Today's Progress**: Changed the color palette of the blog to dark tones.
   
   
   
