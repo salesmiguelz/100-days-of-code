@@ -84,6 +84,11 @@
 
 **Today's Progress**: Changed the color palette of the blog to dark tones.
   
+### Day 19: February 5, 2022.
+
+**Today's Progress**: Created slugs for the posts titles. Now any post can be accessed through /post/{slug}. This was developed with cviebrock/eloquent-sluggable package.
+
+  
   
   
   
