@@ -87,6 +87,10 @@
 ### Day 19: February 5, 2022.
 
 **Today's Progress**: Created slugs for the posts titles. Now any post can be accessed through /post/{slug}. This was developed with cviebrock/eloquent-sluggable package.
+  
+### Day 20: February 6, 2022.
+
+**Today's Progress**: I started to create the categories CRUD in the blog. Now in the navbar, there is users and categories link, no more "Dashboard" only.
 
   
   
