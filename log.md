@@ -91,6 +91,10 @@
 ### Day 20: February 6, 2022.
 
 **Today's Progress**: I started to create the categories CRUD in the blog. Now in the navbar, there is users and categories link, no more "Dashboard" only.
+  
+### Day 21: February 7, 2022.
+
+**Today's Progress**: Today I finished the CRUD of Categories and created a Many to Many relationship between Posts and Categories.
 
   
   
