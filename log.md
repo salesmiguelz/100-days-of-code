@@ -96,6 +96,13 @@
 
 **Today's Progress**: Today I finished the CRUD of Categories and created a Many to Many relationship between Posts and Categories.
 
+### Day 22: February 9, 2022.
+
+**Today's Progress**: Now you can select the color of a Category and see which categories the post has in the post list.
+  
+**Thoughts**: I was very busy with college yesterday, so for the first time I lost my streak. But this won't discourage me. Let's keep going!
+
+
   
   
   
