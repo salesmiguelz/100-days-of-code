@@ -102,6 +102,10 @@
   
 **Thoughts**: I was very busy with college yesterday, so for the first time I lost my streak. But this won't discourage me. Let's keep going!
 
+### Day 23: February 10, 2022.
+
+**Today's Progress**: Today I studied about AJAX. It was very interesting to see how Javascript asynchronous requests work.
+
 
   
   
