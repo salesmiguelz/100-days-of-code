@@ -106,6 +106,12 @@
 
 **Today's Progress**: Today I studied about AJAX. It was very interesting to see how Javascript asynchronous requests work.
 
+### Day 24: February 11, 2022.
+
+**Today's Progress**: Started Laravel Daily course about Livewire.
+ 
+
+
 
   
   
