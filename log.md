@@ -110,6 +110,9 @@
 
 **Today's Progress**: Started Laravel Daily course about Livewire.
  
+### Day 25: February 12, 2022.
+
+**Today's Progress**: Finished Livewire course introduction.
 
 
 
