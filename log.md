@@ -114,6 +114,11 @@
 
 **Today's Progress**: Finished Livewire course introduction.
 
+### Day 26: February 13, 2022.
+
+**Today's Progress**: Pretty lazy day because of some college assignments. But I'm halfway done on the Livewire Course.
+
+
 
 
   
