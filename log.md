@@ -118,6 +118,9 @@
 
 **Today's Progress**: Pretty lazy day because of some college assignments. But I'm halfway done on the Livewire Course.
 
+### Day 27: February 14, 2022.
+
+**Today's Progress**: Today I finished the Laravel Daily Livewire course. It really helped me to understand Livewire and how it can do many things that I thought were possible only through Javascript. Thanks, Povilas Korop for this amazing content.
 
 
 
