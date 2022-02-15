@@ -122,6 +122,11 @@
 
 **Today's Progress**: Today I finished the Laravel Daily Livewire course. It really helped me to understand Livewire and how it can do many things that I thought were possible only through Javascript. Thanks, Povilas Korop for this amazing content.
 
+### Day 28: February 15, 2022.
+
+**Today's Progress**: I created my first Livewire component today! It was a search input for the posts in the blog. Livewire is like magic! It feels great to learn new things.
+
+
 
 
   
