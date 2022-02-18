@@ -134,6 +134,11 @@
 
 **Today's Progress**: Fixed a bug when deleting a category and created a livewire component for users in the blog. Also, I read a bit about Php Unit and I will study about it in the next few days!
 
+### Day 31: February 17, 2022.
+
+**Today's Progress**: Studied PHPUnit and TDD. This is the first time I'm reading about tests using Laravel and I will implement a few of them in the blog. I'm really impressed about browser testing usind Dusk.
+
+
 
 
   
