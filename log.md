@@ -130,6 +130,9 @@
 
 **Today's Progress**: Fixed the "My Posts" section of the blog using the livewire component. Also, now there is a warning before deleting a category, using livewire too.
 
+### Day 30: February 17, 2022.
+
+**Today's Progress**: Fixed a bug when deleting a category and created a livewire component for users in the blog. Also, I read a bit about Php Unit and I will study about it in the next few days!
 
 
 
