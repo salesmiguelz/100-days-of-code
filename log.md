@@ -142,6 +142,9 @@
 
 **Today's Progress**: Yesterday I was pretty busy with college so I didn't have time to do the challenge. Today I studied TailwindCSS and decide I'll start studying Javascript in the next few days to learn Node JS in the future.
 
+### Day 33: February 21, 2022.
+
+**Today's Progress**: Today I started studying Javascript! I'm watching a course I bought last year. I still don't know my next steps in this stack, but I'm really hyped to learn more each day. Let's go!
 
 
   
