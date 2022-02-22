@@ -145,6 +145,12 @@
 ### Day 33: February 21, 2022.
 
 **Today's Progress**: Today I started studying Javascript! I'm watching a course I bought last year. I still don't know my next steps in this stack, but I'm really hyped to learn more each day. Let's go!
+ 
+### Day 34: February 22, 2022.
+
+**Today's Progress**: Learned about the DOM and how it can interact with Javascript. Also learned about JS functions and variables scopes.
+
+
 
 
   
