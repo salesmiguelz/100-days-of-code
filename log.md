@@ -149,6 +149,10 @@
 ### Day 34: February 22, 2022.
 
 **Today's Progress**: Learned about the DOM and how it can interact with Javascript. Also learned about JS functions and variables scopes.
+  
+### Day 35: February 23, 2022.
+
+**Today's Progress**: Today I learned about some Javascript properties, events, and how to interact with them.
 
 
 
