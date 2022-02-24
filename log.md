@@ -153,6 +153,10 @@
 ### Day 35: February 23, 2022.
 
 **Today's Progress**: Today I learned about some Javascript properties, events, and how to interact with them.
+  
+### Day 36: February 24, 2022.
+
+**Today's Progress**: Studied Arrays, objects and switch loop using Javascript.
 
 
 
