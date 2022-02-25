@@ -157,6 +157,12 @@
 ### Day 36: February 24, 2022.
 
 **Today's Progress**: Studied Arrays, objects and switch loop using Javascript.
+  
+### Day 37: February 25, 2022.
+
+**Today's Progress**: Learned for, for in and while loops and some string methods.
+
+
 
 
 
