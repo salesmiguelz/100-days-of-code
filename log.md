@@ -162,6 +162,10 @@
 
 **Today's Progress**: Learned for, for in and while loops and some string methods.
 
+### Day 38: February 26, 2022.
+
+**Today's Progress**: Learned some array methods using JS.
+
 
 
 
