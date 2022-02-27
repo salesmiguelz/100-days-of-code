@@ -165,6 +165,10 @@
 ### Day 38: February 26, 2022.
 
 **Today's Progress**: Learned some array methods using JS.
+  
+### Day 39: February 27, 2022.
+
+**Today's Progress**: Learned about dates using Javascript. It really reminds me of how Carbon works on Php.
 
 
 
