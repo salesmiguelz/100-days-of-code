@@ -169,6 +169,14 @@
 ### Day 39: February 27, 2022.
 
 **Today's Progress**: Learned about dates using Javascript. It really reminds me of how Carbon works on Php.
+  
+### Day 40: February 28, 2022.
+
+**Today's Progress**: Studied about intervals and learned template strings.
+
+
+
+
 
 
 
