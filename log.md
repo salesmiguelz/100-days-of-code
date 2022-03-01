@@ -174,6 +174,9 @@
 
 **Today's Progress**: Studied about intervals and learned template strings.
 
+### Day 41: March 1st, 2022.
+
+**Today's Progress**: Learned Object and Array Destructuring and the arrow function.
 
 
 
