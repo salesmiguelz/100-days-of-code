@@ -177,6 +177,11 @@
 ### Day 41: March 1st, 2022.
 
 **Today's Progress**: Learned Object and Array Destructuring and the arrow function.
+  
+### Day 42: March 2, 2022.
+
+**Today's Progress**: Spread and Rest operators, includes, repeat, padStart and padEnd methods for strings and key, entries and values methods for Ojects. Also, I learned about JSON.parse and JSON.stringify. 
+
 
 
 
