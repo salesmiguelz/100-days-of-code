@@ -181,6 +181,11 @@
 ### Day 42: March 2, 2022.
 
 **Today's Progress**: Spread and Rest operators, includes, repeat, padStart and padEnd methods for strings and key, entries and values methods for Ojects. Also, I learned about JSON.parse and JSON.stringify. 
+  
+### Day 43: March 3, 2022.
+
+**Today's Progress**: Today I learned about Asynchronous JavaScript and promises. Also, I finished my Javascript course! It was pretty cool to learn it and I'm super hyped to learn more about this stack.
+
 
 
 
