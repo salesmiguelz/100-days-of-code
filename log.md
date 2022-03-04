@@ -186,6 +186,11 @@
 
 **Today's Progress**: Today I learned about Asynchronous JavaScript and promises. Also, I finished my Javascript course! It was pretty cool to learn it and I'm super hyped to learn more about this stack.
 
+### Day 44: March 4, 2022.
+
+**Today's Progress**: Today I start my journey on learning React Native. This is the first time I'm having contact with mobile development. Let's go!
+
+
 
 
 
