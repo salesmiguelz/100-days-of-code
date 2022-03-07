@@ -190,6 +190,11 @@
 
 **Today's Progress**: Today I start my journey on learning React Native. This is the first time I'm having contact with mobile development. Let's go!
 
+### Day 45: March 6, 2022 && Day 46, March 7, 2022.
+
+**Today's Progress**: Struggled with configuring the environment for React Native using Android Studio, but now is working fine! Also, learned a lot about Npm. 
+ 
+
 
 
 
