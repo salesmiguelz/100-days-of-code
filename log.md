@@ -193,6 +193,10 @@
 ### Day 45: March 6, 2022 && Day 46, March 7, 2022.
 
 **Today's Progress**: Struggled with configuring the environment for React Native using Android Studio, but now is working fine! Also, learned a lot about Npm. 
+
+### Day 47: March 8, 2022
+
+**Today's Progress**: Created my first component and learned more about named, anonymous and arrow functions.
  
 
 
