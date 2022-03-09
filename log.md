@@ -197,6 +197,10 @@
 ### Day 47: March 8, 2022
 
 **Today's Progress**: Created my first component and learned more about named, anonymous and arrow functions.
+  
+### Day 48: March 9, 2022
+
+**Today's Progress**: Learned about CSS and passing parameters to the components on React Native.
  
 
 
