@@ -201,7 +201,13 @@
 ### Day 48: March 9, 2022
 
 **Today's Progress**: Learned about CSS and passing parameters to the components on React Native.
+  
+### Day 49: March 10, 2022
+
+**Today's Progress**: Learned React fragments, buttons and states!
  
+ 
+  
 
 
 
