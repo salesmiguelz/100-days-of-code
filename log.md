@@ -205,9 +205,11 @@
 ### Day 49: March 10, 2022
 
 **Today's Progress**: Learned React fragments, buttons and states!
- 
- 
   
+### Day 50: March 11, 2022
+
+**Today's Progress**: Learned about direct and indirect communication between React Native components. Halfway done! Let's gooooooooooo.
+
 
 
 
