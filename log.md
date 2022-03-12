@@ -210,6 +210,10 @@
 
 **Today's Progress**: Learned about direct and indirect communication between React Native components. Halfway done! Let's gooooooooooo.
 
+### Day 51: March 12, 2022
+
+**Today's Progress**: Studied about conditional rendering and props.children in React Native.
+
 
 
 
