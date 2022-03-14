@@ -213,6 +213,10 @@
 ### Day 51: March 12, 2022
 
 **Today's Progress**: Studied about conditional rendering and props.children in React Native.
+  
+### Day 52: March 14, 2022
+
+**Today's Progress**: Learned controlled components and how to render lists.
 
 
 
