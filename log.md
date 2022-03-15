@@ -217,6 +217,10 @@
 ### Day 52: March 14, 2022
 
 **Today's Progress**: Learned controlled components and how to render lists.
+  
+### Day 53: March 15, 2022
+
+**Today's Progress**: Learned flexbox in React Native.
 
 
 
