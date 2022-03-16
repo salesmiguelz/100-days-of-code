@@ -222,6 +222,12 @@
 
 **Today's Progress**: Learned flexbox in React Native.
 
+### Day 54: March 16, 2022
+
+**Today's Progress**: Studied class based components in React Native.
+
+
+
 
 
 
