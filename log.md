@@ -226,6 +226,11 @@
 
 **Today's Progress**: Studied class based components in React Native.
 
+### Day 55 && 56: March 17 && 18, 2022
+
+**Today's Progress**: I started creating a calculator using React Native during my course.
+
+
 
 
 
