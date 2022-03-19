@@ -229,6 +229,10 @@
 ### Day 55 && 56: March 17 && 18, 2022
 
 **Today's Progress**: I started creating a calculator using React Native during my course.
+  
+### Day 57: March 19, 2022
+
+**Today's Progress**: Changed the style of the buttons and their positioning. Also, implemented the logic of all the number buttons.
 
 
 
