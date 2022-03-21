@@ -233,6 +233,10 @@
 ### Day 57: March 19, 2022
 
 **Today's Progress**: Changed the style of the buttons and their positioning. Also, implemented the logic of all the number buttons.
+  
+### Day 58: March 21, 2022
+
+**Today's Progress**: Finished the calculator made in React Native and now all operations are functional. This was a very good project to learn more about Javascript and React states.
 
 
 
