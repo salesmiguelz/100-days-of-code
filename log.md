@@ -237,6 +237,10 @@
 ### Day 58: March 21, 2022
 
 **Today's Progress**: Finished the calculator made in React Native and now all operations are functional. This was a very good project to learn more about Javascript and React states.
+  
+### Day 59: March 22, 2022
+
+**Today's Progress**: Today I started to create a Minesweeper game using React Native, during my course on Udemy, to practice my skills.
 
 
 
