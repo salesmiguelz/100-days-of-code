@@ -241,6 +241,10 @@
 ### Day 59: March 22, 2022
 
 **Today's Progress**: Today I started to create a Minesweeper game using React Native, during my course on Udemy, to practice my skills.
+  
+### Day 60: March 24, 2022
+
+**Today's Progress**: Yesterday I was pretty busy so I didnt have much time to work on the project. Today, I created a Flag and a Bomb component for the Minesweeper game.
 
 
 
