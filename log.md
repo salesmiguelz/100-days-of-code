@@ -245,6 +245,10 @@
 ### Day 60: March 24, 2022
 
 **Today's Progress**: Yesterday I was pretty busy so I didnt have much time to work on the project. Today, I created a Flag and a Bomb component for the Minesweeper game.
+  
+### Day 61: March 25, 2022
+
+**Today's Progress**: Starting to implement the minesweeper board logic. I will be offline for about 3 days since I'm going on a field trip for college. See you soon :)
 
 
 
