@@ -249,6 +249,10 @@
 ### Day 61: March 25, 2022
 
 **Today's Progress**: Starting to implement the minesweeper board logic. I will be offline for about 3 days since I'm going on a field trip for college. See you soon :)
+  
+### Day 62: March 30, 2022
+
+**Today's Progress**: After 5 days off from this challenge because of my college field trip, I'm finally back. Also, I talked to some of my friends and decided I will study React instead of React Native. I think it suits better with what I'm aiming for my career. Today I studied about the React market and some tools to use with it. Let's start again from the beginning!
 
 
 
