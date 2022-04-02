@@ -257,6 +257,10 @@
 ### Day 63: March 31, 2022
 
 **Today's Progress**: Today I started studying Typescript! It's really weird to see typed Javascript, but I'm sure I will get used to it.
+  
+### Day 64 && 65: March 31 && April 1st 2022
+
+**Today's Progress**: Studied the fundamentals of Typescript.
 
 
 
