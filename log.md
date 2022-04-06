@@ -266,6 +266,9 @@
 
 **Today's Progress**: Finished my Typescript fundamentals course.
 
+### Day 67: April 6, 2022
+
+**Today's Progress**: Today I crated my first React JS project, using Vite. I also studied about JSX and components.
 
 
 
