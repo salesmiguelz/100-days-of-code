@@ -270,6 +270,10 @@
 
 **Today's Progress**: Today I crated my first React JS project, using Vite. I also studied about JSX and components.
 
+### Day 68: April 7, 2022
+
+**Today's Progress**: Created my first component and learned props, fragments and children.
+
 
 
 
