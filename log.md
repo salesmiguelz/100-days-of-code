@@ -273,6 +273,11 @@
 ### Day 68: April 7, 2022
 
 **Today's Progress**: Created my first component and learned props, fragments and children.
+  
+## Day 69 && 70: April 7, 2022  && April 8, 2022
+
+**Today's Progress**: Learned React state hook.
+
 
 
 
