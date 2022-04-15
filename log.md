@@ -277,6 +277,11 @@
 ### Day 69 && 70: April 7, 2022  && April 8, 2022
 
 **Today's Progress**: Learned React state hook.
+  
+### Day 71: April 14, 2022
+
+**Today's Progress**: Studied more about state hook and made a exercise.
+
 
 
 
