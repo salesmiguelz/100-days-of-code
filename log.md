@@ -282,6 +282,9 @@
 
 **Today's Progress**: Studied more about state hook and made a exercise.
 
+### Day 72: April 16, 2022
+
+**Today's Progress**: Learned lists, conditional rendering and communication between different components.
 
 
 
