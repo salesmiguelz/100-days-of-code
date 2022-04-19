@@ -285,6 +285,10 @@
 ### Day 72: April 16, 2022
 
 **Today's Progress**: Learned lists, conditional rendering and communication between different components.
+  
+### Day 73: April 18, 2022
+
+**Today's Progress**: Learned the basics of styling components.
 
 
 
