@@ -289,6 +289,10 @@
 ### Day 73: April 18, 2022
 
 **Today's Progress**: Learned the basics of styling components.
+  
+### Day 74: April 19, 2022
+
+**Today's Progress**: Learned how to use the styled components lib.
 
 
 
